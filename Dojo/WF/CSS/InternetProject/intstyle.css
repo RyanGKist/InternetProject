@@ -1,0 +1,175 @@
+	.wrapper{
+		background-color:#FFFFFF;
+	}
+	.container{
+		width:970px;
+			
+	
+	}
+	#blue{
+		color:#2E6B9F;
+	}
+	#bluein{
+		color:#33BADD;
+	}
+	#red{
+		color:red;
+	}
+	.globe{
+		margin-bottom:-79px;
+	}
+	.banner1{
+		font-family: arial;
+		padding-left:95px;
+		background-color:#FFFFFF;
+		color:black;
+	}
+	.banner2{
+		font-family: arial;
+		margin:-22px 0px 0px 0px;
+		padding:5px 0px 0px 2px;
+		background-color:#2E6B9F;
+		color:#FFFFFF;
+	}
+	.container p{
+		margin:15px 800px -4px 15px;
+		padding-top:5px;
+	}
+.button3{
+	color:white;
+	font-size:18px;
+	font-weight: bold;
+	background-color:#29689E;
+	border-radius: 6px;
+	margin:13px 770px 8px 11px;
+}
+.button2{
+	color:white;
+	font-size:18px;
+	font-weight: bold;
+	background-color:#ED7A0D;
+	border-radius: 6px;
+	margin:0px 770px 0px 11px;
+}
+.dojo{
+	margin:150px -156px -176px 19px;
+	border-top: 2px solid grey;
+	padding-top:10px;
+
+}
+#addInfo1{
+	margin:-33px 814px 15px 28px;
+	color:white;
+	text-align: center;
+	
+}
+.ninja{
+	margin:0px 0px -94px 49px;
+	
+}
+.button1{
+	color:white;
+	font-size:10px;
+	font-weight: bold;
+	background-color:teal;
+	border-radius: 3px;
+	margin:91px 770px 0px 43px;
+	
+}
+.home{
+	display:block;
+	margin:-178px 0px 0px 238px
+	;
+}
+.container h5{
+	margin:-14px 0px 0px 259px;
+}
+
+.phone{
+	display:block;
+	margin:-51px 0px 0px 776px
+
+}
+.callinfo{
+	width:17.5%;
+	background-color:#FFFFFF;
+	margin:-33px 0px -10px 800px;
+	padding-top: .5px;
+}
+.callinfo p{
+	font-size:8px;
+	margin:2px;
+	text-align:center;
+	letter-spacing: .5px;	
+	margin-bottom:6px;
+}
+.callinfo h4{
+	font-size:24px;
+	margin: 1px;
+	text-align:center;
+	margin:-8px auto;
+}
+
+.MainText{
+	background-color:#FFFFFF;
+	width:75.5%;
+	margin:-350px 0px -16px 238px;
+	text-align: left;
+	border-top:2px solid grey;
+}
+.MainText h1{
+	color:#2E6B9F;
+	margin:-.5px;
+}
+.MainText p{
+	font-family: arial;
+	display:inline;
+	margin: 0px auto;
+}
+.MainText ul li{
+	font-family:arial;
+	margin: 8px auto;
+}
+
+.SC{
+	padding-left:200px;
+}
+.MainTest ol li{
+	font-family:arial;
+	margin: 8px auto;
+}
+
+.footer{
+	background-color:#FFFFFF;
+}
+.fcont{
+	width:525px;
+	margin:4px 0px 0px 290px ;
+	border-radius: 3px;
+	border: 4px solid #33BADD;
+	background-color:white;
+	text-align: left;
+	display:inline-block;
+}
+.html{
+	display:inline-block;
+	margin:0px;
+}
+.footer h1 {
+	margin-left:50px;
+	color:#2E6B9F;
+	margin:-.5px;
+	font-family: arial;
+	font-size:18px;
+	display:block;
+}
+.footer p{
+	margin-left:50px;
+	font-family: arial;
+	margin: 0px auto;
+	display:block;
+}
+.texthold{
+	display:inline-block;
+	width:60%;
+}
